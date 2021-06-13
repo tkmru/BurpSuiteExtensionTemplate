@@ -1,5 +1,7 @@
 # Burp Suite Extension Template
 
+Template codes for burp extension developers
+
 ## Installation
 In Burp, go to the Extender tool, and the Extensions tab, and add a new extension. Select the extension type "Java", and specify the location of your JAR file.
 
