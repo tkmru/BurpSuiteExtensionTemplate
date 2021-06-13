@@ -20,11 +20,12 @@ $ maven install
 ```
 
 ## Usage
-![](img/menu.png)
 
-![](img/log.png)
+<img src="img/menu.png" width=400px>
 
-![](img/tab.png)
+<img src="img/log.png" width=600px>
+
+<img src="img/tab.png" width=700px>
 
 ## LICENSE
 
