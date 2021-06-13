@@ -1,1 +1,1 @@
-# BurpSuiteExtensionTemplate
+# Burp Suite Extension Template
