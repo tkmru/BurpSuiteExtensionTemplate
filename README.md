@@ -1,6 +1,6 @@
 # Burp Suite Extension Template
 
-Template codes for burp extension developers
+Template codes for burp extension developers.
 
 ## Installation
 In Burp, go to the Extender tool, and the Extensions tab, and add a new extension. Select the extension type "Java", and specify the location of your JAR file.
@@ -22,10 +22,15 @@ $ maven install
 ```
 
 ## Usage
+A menu is added. It's available from HTTP History tab.
 
 <img src="img/menu.png" width=400px>
 
+Click on the menu to output the log.
+
 <img src="img/log.png" width=600px>
+
+A tab will also be added, when you add an extension.
 
 <img src="img/tab.png" width=700px>
 
