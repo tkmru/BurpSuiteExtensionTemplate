@@ -2,6 +2,9 @@
 
 Template codes for burp extension developers.
 
+## Motivation
+As far as I could find, there is no sample extension that describes how to set up github actions and build by command line. Therefore, I created it.
+
 ## Installation
 In Burp, go to the Extender tool, and the Extensions tab, and add a new extension. Select the extension type "Java", and specify the location of your JAR file.
 
