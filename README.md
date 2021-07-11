@@ -21,7 +21,7 @@ If you are using intellij, you can build it with the following steps.
 ### Command line
 
 ```
-$ maven install
+$ mvn install
 ```
 
 ## Usage
